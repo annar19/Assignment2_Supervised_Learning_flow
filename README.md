@@ -35,7 +35,23 @@ In this project, we explore various supervised learning techniques to build effe
 
 The following heatmap shows the correlation between various features in the dataset:
 
-![Correlation Heatmap](path/to/Capture.PNG)
+![Correlation Heatmap](images/Capture.PNG)
+
+### Titanic Deaths and Survivals by Gender
+
+The following graph illustrates the comparison between the number of deaths and survivors based on gender:
+
+![Titanic Deaths and Survivals](images/Capture.2PNG.PNG)
+### Survived vs Died by Class
+
+The following pie charts compare the percentages of passengers who survived and died based on their class:
+
+![Survived vs Died by Class](images/Capture1.PNG)
+### Age Distribution by Survival
+
+The following density plot shows the age distribution of passengers who survived and did not survive:
+
+![Age Distribution by Survival](images/Capture4.PNG)
 
 ### Built With
 * Programming Languages: Python
