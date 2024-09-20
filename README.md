@@ -31,9 +31,16 @@
 
 ## About The Project
 In this project, we explore various supervised learning techniques to build effective predictive models. We focus on four popular algorithms: K-Nearest Neighbors (KNN), Naive Bayes, Random Forest, and Gradient Boosting. Through the use of feature engineering, hyperparameter optimization, and cross-validation techniques, we aim to enhance the accuracy and robustness of these models. The performance of each model is evaluated using metrics such as accuracy and precision, providing insights into their strengths and weaknesses for different datasets.
+### Correlation Heatmap
+
+The following heatmap shows the correlation between various features in the dataset:
+
+![Correlation Heatmap](path/to/Capture.PNG)
 
 ### Built With
-- List the technologies or tools used in the project.
+* Programming Languages: Python
+* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
 ## Getting Started
 Explain how to get a local copy up and running.
