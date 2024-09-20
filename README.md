@@ -30,7 +30,7 @@
 </details>
 
 ## About The Project
-In this project, we explore various supervised learning techniques to build effective predictive models. We focus on three popular algorithms: K-Nearest Neighbors (KNN), Naive Bayes, and Random Forest. Through the use of feature engineering, hyperparameter optimization, and cross-validation techniques, we aim to enhance the accuracy and robustness of these models. The performance of each model is evaluated using metrics such as accuracy and precision, providing insights into their strengths and weaknesses for different datasets.
+In this project, we explore various supervised learning techniques to build effective predictive models. We focus on four popular algorithms: K-Nearest Neighbors (KNN), Naive Bayes, Random Forest, and Gradient Boosting. Through the use of feature engineering, hyperparameter optimization, and cross-validation techniques, we aim to enhance the accuracy and robustness of these models. The performance of each model is evaluated using metrics such as accuracy and precision, providing insights into their strengths and weaknesses for different datasets.
 
 ### Built With
 - List the technologies or tools used in the project.
