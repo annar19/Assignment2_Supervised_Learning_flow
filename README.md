@@ -11,13 +11,10 @@
   - [Built With](#built-with)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
   - [Usage](#usage)
-  - [Roadmap](#roadmap)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-  - [Acknowledgments](#acknowledgments)
+  - [Process](#process)
+  - [Demo Video](#demo-video)
+
 
 </details>
 
@@ -51,28 +48,30 @@ The following density plot shows the age distribution of passengers who survived
 * Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
 ## Getting Started
-Explain how to get a local copy up and running.
-
 ### Prerequisites
-- List the software or dependencies required.
+Make sure you have the following installed:
 
-### Installation
-Provide step-by-step instructions to install the project locally.
+* Python 3.x – Download from here.
+* Pip – Python’s package manager for installing dependencies.
+* Jupyter Notebook – Install it via pip install notebook.
+* Required Libraries – Install by running
 
 ## Usage
-Explain how to use the project after installation.
+* Clone the repository.
+* Open the Assignment2_supervised_learning_flow.ipynb in Jupyter Notebook.
+* Run the cells to execute the code and view results.
+* Modify parameters or models in the notebook to experiment.
 
-## Roadmap
-List any future updates or features.
+## Process
+Loading and preparing the dataset.
+Performing Exploratory Data Analysis (EDA) – handling duplicates, NULL values, and visualizing data.
+Testing multiple learning algorithms to establish a baseline F1 score.
+Conducting 5-fold cross-validation to select the best algorithm.
+Training the dataset with the best-performing model.
+Creating a confusion matrix and visualizing model performance.
 
-## Contributing
-Explain how others can contribute to the project.
 
-## License
-State the license used.
+## Demo Video
 
-## Contact
-Provide your contact information.
 
-## Acknowledgments
-Give credit to people or resources that helped with the project.
+
