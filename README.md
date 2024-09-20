@@ -72,6 +72,6 @@ Creating a confusion matrix and visualizing model performance.
 
 
 ## Demo Video
-
+[Click here to watch the demo video](https://www.youtube.com/watch?v=GpCbY-wfVFE&t=1s)
 
 
